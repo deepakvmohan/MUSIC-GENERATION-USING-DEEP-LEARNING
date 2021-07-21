@@ -1,0 +1,2 @@
+# MUSIC-GENERATION-USING-DEEP-LEARNING
+The traditional approach to music generation would be to describe a stochastic grammar (probabilistic). It is purely based on Mathematics of the music.  On the other hand, the machine learning approach is not concerned about the concrete mathematical structure of music.  The model will be trained to understand musical sequences, and thereby generate a full-fledged melody based on the training data set.
